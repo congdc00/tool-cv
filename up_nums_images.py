@@ -9,7 +9,7 @@ import argparse
 def parse_args():
     parser = argparse.ArgumentParser(description="")
 
-input_path = "./data/heygen_plus"
+input_path = "./data/nua_duoi"
 
 list_img_path = glob.glob(input_path + "/*")
 total_images = len(list_img_path)

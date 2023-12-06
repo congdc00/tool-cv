@@ -1,0 +1,4 @@
+
++++process
+input: ['../tool-crawl/data/videos/vietnamese/jv/1002_00.mp4', '../tool-crawl/data/videos/vietnamese/jv/1001_00.mp4']
+status: False

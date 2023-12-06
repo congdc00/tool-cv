@@ -1,0 +1,1027 @@
+
++++process
+input: ./data_lipsync/step_1/jv/1003_01.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:37]
+
++++process
+input: ./data_lipsync/step_1/jv/1002_00.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:07]
+
++++process
+input: ./data_lipsync/step_1/jv/1001_01.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:01:17]
+
++++process
+input: ./data_lipsync/step_1/jv/1001_04.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:02:16]
+
++++process
+input: ./data_lipsync/step_1/jv/1004_01.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:24]
+
++++process
+input: ./data_lipsync/step_1/jv/1001_00.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:39]
+
++++process
+input: ./data_lipsync/step_1/jv/1007_01.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:45]
+
++++process
+input: ./data_lipsync/step_1/jv/1006_00.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:07,00:01:15]
+output: tmp/frames_02.mp4, time: [00:01:23,00:03:02]
+output: tmp/frames_03.mp4, time: [00:03:12,00:03:50]
+output: tmp/frames_04.mp4, time: [00:04:17,00:04:22]
+output: tmp/frames_05.mp4, time: [00:04:59,00:05:09]
+output: tmp/frames_06.mp4, time: [00:05:30,00:06:22]
+output: tmp/frames_07.mp4, time: [00:06:33,00:06:43]
+output: tmp/frames_09.mp4, time: [00:06:57,00:07:59]
+output: tmp/frames_10.mp4, time: [00:08:07,00:08:15]
+
++++process
+input: ./data_lipsync/step_1/jv/1005_05.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:07]
+
++++process
+input: ./data_lipsync/step_1/jv/1008_02.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:15]
+
++++process
+input: ./data_lipsync/step_1/jv/1003_00.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:12]
+output: tmp/frames_02.mp4, time: [00:00:16,00:00:26]
+output: tmp/frames_03.mp4, time: [00:00:48,00:00:59]
+output: tmp/frames_05.mp4, time: [00:01:11,00:01:35]
+output: tmp/frames_06.mp4, time: [00:01:49,00:02:39]
+output: tmp/frames_07.mp4, time: [00:02:42,00:02:47]
+output: tmp/frames_08.mp4, time: [00:02:59,00:03:02]
+output: tmp/frames_09.mp4, time: [00:03:12,00:04:22]
+output: tmp/frames_10.mp4, time: [00:04:26,00:05:19]
+output: tmp/frames_11.mp4, time: [00:05:59,00:06:41]
+output: tmp/frames_12.mp4, time: [00:06:47,00:06:51]
+output: tmp/frames_13.mp4, time: [00:07:07,00:09:37]
+
++++process
+input: ./data_lipsync/step_1/jv/1008_01.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:12]
+
++++process
+input: ./data_lipsync/step_1/jv/1008_05.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:16]
+
++++process
+input: ./data_lipsync/step_1/jv/1004_05.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:18]
+output: tmp/frames_02.mp4, time: [00:00:42,00:01:32]
+
++++process
+input: ./data_lipsync/step_1/jv/1006_01.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:41]
+
++++process
+input: ./data_lipsync/step_1/jv/1004_06.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:06]
+output: tmp/frames_02.mp4, time: [00:00:17,00:00:42]
+
++++process
+input: ./data_lipsync/step_1/jv/1007_02.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:50]
+output: tmp/frames_02.mp4, time: [00:00:58,00:01:29]
+output: tmp/frames_03.mp4, time: [00:02:02,00:02:14]
+output: tmp/frames_04.mp4, time: [00:02:21,00:02:28]
+output: tmp/frames_05.mp4, time: [00:02:33,00:02:46]
+output: tmp/frames_06.mp4, time: [00:03:07,00:04:41]
+output: tmp/frames_07.mp4, time: [00:04:45,00:04:50]
+
++++process
+input: ./data_lipsync/step_1/jv/1001_03.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:57]
+
++++process
+input: ./data_lipsync/step_1/jv/1004_03.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:25]
+
++++process
+input: ./data_lipsync/step_1/jv/1004_00.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:01:09]
+
++++process
+input: ./data_lipsync/step_1/jv/1005_01.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:18]
+
++++process
+input: ./data_lipsync/step_1/jv/1002_05.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:36]
+
++++process
+input: ./data_lipsync/step_1/jv/1007_04.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:01,00:00:21]
+
++++process
+input: ./data_lipsync/step_1/jv/1002_04.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:01:25]
+
++++process
+input: ./data_lipsync/step_1/jv/1004_02.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:37]
+
++++process
+input: ./data_lipsync/step_1/jv/1001_02.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:47]
+
++++process
+input: ./data_lipsync/step_1/jv/1002_02.mp4
+status: OK
+output: tmp/frames_02.mp4, time: [00:00:01,00:01:05]
+
++++process
+input: ./data_lipsync/step_1/jv/1008_00.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:08]
+
++++process
+input: ./data_lipsync/step_1/jv/1005_03.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:16]
+
++++process
+input: ./data_lipsync/step_1/jv/1005_00.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:07]
+
++++process
+input: ./data_lipsync/step_1/jv/1007_05.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:01:10]
+
++++process
+input: ./data_lipsync/step_1/jv/1002_06.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:01:02]
+
++++process
+input: ./data_lipsync/step_1/jv/1001_05.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:30]
+
++++process
+input: ./data_lipsync/step_1/jv/1002_01.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:34]
+
++++process
+input: ./data_lipsync/step_1/jv/1008_04.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:13]
+output: tmp/frames_02.mp4, time: [00:00:25,00:01:07]
+
++++process
+input: ./data_lipsync/step_1/jv/1002_03.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:15]
+
++++process
+input: ./data_lipsync/step_1/jv/1007_00.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:01:22]
+
++++process
+input: ./data_lipsync/step_1/jv/1005_04.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:34]
+output: tmp/frames_02.mp4, time: [00:00:45,00:01:39]
+output: tmp/frames_03.mp4, time: [00:01:44,00:03:16]
+output: tmp/frames_04.mp4, time: [00:03:28,00:03:39]
+output: tmp/frames_05.mp4, time: [00:03:58,00:04:04]
+output: tmp/frames_06.mp4, time: [00:04:16,00:04:24]
+output: tmp/frames_07.mp4, time: [00:04:35,00:05:06]
+output: tmp/frames_08.mp4, time: [00:05:20,00:06:00]
+output: tmp/frames_09.mp4, time: [00:06:10,00:06:13]
+
++++process
+input: ./data_lipsync/step_1/jv/1004_04.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:23]
+output: tmp/frames_02.mp4, time: [00:00:35,00:00:57]
+output: tmp/frames_03.mp4, time: [00:01:08,00:01:10]
+output: tmp/frames_04.mp4, time: [00:01:20,00:01:34]
+
++++process
+input: ./data_lipsync/step_1/jv/1008_03.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:20]
+
++++process
+input: ./data_lipsync/step_1/jv/1007_03.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:20]
+
++++process
+input: ./data_lipsync/step_1/jv/1005_02.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:23]
+output: tmp/frames_02.mp4, time: [00:00:29,00:00:59]
+output: tmp/frames_03.mp4, time: [00:01:07,00:01:21]
+output: tmp/frames_04.mp4, time: [00:01:35,00:01:49]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1031_00.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:04]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1003_01.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:02:03]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1014_01.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:04]
+output: tmp/frames_02.mp4, time: [00:00:13,00:00:17]
+output: tmp/frames_03.mp4, time: [00:00:27,00:00:53]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1011_06.mp4
+status: OK
+
++++process
+input: ./data_lipsync/step_1/duyluan/1027_04.mp4
+status: OK
+
++++process
+input: ./data_lipsync/step_1/duyluan/1022_00.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:07,00:00:15]
+output: tmp/frames_02.mp4, time: [00:00:25,00:00:30]
+output: tmp/frames_03.mp4, time: [00:00:39,00:00:41]
+output: tmp/frames_04.mp4, time: [00:00:55,00:01:11]
+output: tmp/frames_05.mp4, time: [00:01:17,00:01:22]
+output: tmp/frames_06.mp4, time: [00:01:31,00:01:35]
+output: tmp/frames_07.mp4, time: [00:01:43,00:01:51]
+output: tmp/frames_09.mp4, time: [00:02:10,00:02:13]
+output: tmp/frames_10.mp4, time: [00:02:19,00:02:31]
+output: tmp/frames_11.mp4, time: [00:02:44,00:02:48]
+output: tmp/frames_12.mp4, time: [00:02:55,00:03:00]
+output: tmp/frames_13.mp4, time: [00:03:06,00:03:23]
+output: tmp/frames_14.mp4, time: [00:03:27,00:03:29]
+output: tmp/frames_15.mp4, time: [00:03:31,00:03:48]
+output: tmp/frames_16.mp4, time: [00:03:56,00:04:02]
+output: tmp/frames_17.mp4, time: [00:04:10,00:04:24]
+output: tmp/frames_18.mp4, time: [00:04:29,00:04:44]
+output: tmp/frames_19.mp4, time: [00:04:53,00:05:17]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1002_00.mp4
+status: False
+
++++process
+input: ./data_lipsync/step_1/duyluan/1004_25.mp4
+status: OK
+
++++process
+input: ./data_lipsync/step_1/duyluan/1015_00.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:17]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1004_17.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:04]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1001_01.mp4
+status: OK
+
++++process
+input: ./data_lipsync/step_1/duyluan/1001_04.mp4
+status: OK
+
++++process
+input: ./data_lipsync/step_1/duyluan/1004_01.mp4
+status: OK
+
++++process
+input: ./data_lipsync/step_1/duyluan/1001_00.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:43]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1017_02.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:05]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1007_01.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:08]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1006_00.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:05]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1017_01.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:04]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1013_00.mp4
+status: OK
+
++++process
+input: ./data_lipsync/step_1/duyluan/1004_20.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:11]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1008_02.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:12]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1027_03.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:06]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1003_00.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:03]
+output: tmp/frames_02.mp4, time: [00:00:08,00:00:19]
+output: tmp/frames_03.mp4, time: [00:00:27,00:00:32]
+output: tmp/frames_04.mp4, time: [00:00:42,00:00:49]
+output: tmp/frames_05.mp4, time: [00:00:52,00:01:47]
+output: tmp/frames_06.mp4, time: [00:01:54,00:02:00]
+output: tmp/frames_07.mp4, time: [00:02:09,00:02:25]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1008_01.mp4
+status: OK
+
++++process
+input: ./data_lipsync/step_1/duyluan/1008_05.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:02]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1004_22.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:09]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1004_05.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:07]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1010_01.mp4
+status: False
+
++++process
+input: ./data_lipsync/step_1/duyluan/1023_00.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:03]
+output: tmp/frames_02.mp4, time: [00:00:16,00:00:26]
+output: tmp/frames_04.mp4, time: [00:00:44,00:00:50]
+output: tmp/frames_05.mp4, time: [00:00:56,00:01:00]
+output: tmp/frames_06.mp4, time: [00:01:16,00:01:35]
+output: tmp/frames_08.mp4, time: [00:02:11,00:02:13]
+output: tmp/frames_09.mp4, time: [00:02:20,00:02:24]
+output: tmp/frames_10.mp4, time: [00:02:31,00:02:52]
+output: tmp/frames_11.mp4, time: [00:02:53,00:02:57]
+output: tmp/frames_12.mp4, time: [00:03:01,00:03:05]
+output: tmp/frames_13.mp4, time: [00:03:10,00:03:13]
+output: tmp/frames_14.mp4, time: [00:03:17,00:03:26]
+output: tmp/frames_15.mp4, time: [00:03:42,00:03:50]
+output: tmp/frames_16.mp4, time: [00:03:55,00:04:01]
+output: tmp/frames_17.mp4, time: [00:04:05,00:04:13]
+output: tmp/frames_18.mp4, time: [00:04:19,00:04:24]
+output: tmp/frames_19.mp4, time: [00:04:38,00:04:45]
+output: tmp/frames_20.mp4, time: [00:04:54,00:05:02]
+output: tmp/frames_21.mp4, time: [00:05:11,00:05:18]
+output: tmp/frames_22.mp4, time: [00:05:21,00:05:31]
+output: tmp/frames_23.mp4, time: [00:05:36,00:05:45]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1006_01.mp4
+status: OK
+
++++process
+input: ./data_lipsync/step_1/duyluan/1006_11.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:06]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1004_24.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:04]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1020_00.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:03]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1014_00.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:05]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1004_06.mp4
+status: OK
+
++++process
+input: ./data_lipsync/step_1/duyluan/1007_02.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:09]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1027_00.mp4
+status: OK
+
++++process
+input: ./data_lipsync/step_1/duyluan/1006_14.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:11]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1031_03.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:19]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1001_03.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:09]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1004_03.mp4
+status: OK
+
++++process
+input: ./data_lipsync/step_1/duyluan/1004_00.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:06]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1031_02.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:54]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1027_08.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:02]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1004_11.mp4
+status: OK
+
++++process
+input: ./data_lipsync/step_1/duyluan/1021_00.mp4
+status: False
+
++++process
+input: ./data_lipsync/step_1/duyluan/1004_09.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:02]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1004_19.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:02]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1031_01.mp4
+status: False
+
++++process
+input: ./data_lipsync/step_1/duyluan/1029_01.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:03,00:00:08]
+output: tmp/frames_02.mp4, time: [00:00:15,00:00:18]
+output: tmp/frames_03.mp4, time: [00:00:27,00:00:33]
+output: tmp/frames_04.mp4, time: [00:00:43,00:00:48]
+output: tmp/frames_05.mp4, time: [00:01:04,00:01:13]
+output: tmp/frames_06.mp4, time: [00:01:24,00:01:27]
+output: tmp/frames_07.mp4, time: [00:01:36,00:01:42]
+output: tmp/frames_08.mp4, time: [00:01:49,00:01:53]
+output: tmp/frames_09.mp4, time: [00:02:01,00:02:05]
+output: tmp/frames_10.mp4, time: [00:02:12,00:02:29]
+output: tmp/frames_11.mp4, time: [00:02:41,00:02:56]
+output: tmp/frames_12.mp4, time: [00:03:02,00:03:32]
+output: tmp/frames_14.mp4, time: [00:03:59,00:04:02]
+output: tmp/frames_15.mp4, time: [00:04:17,00:04:23]
+output: tmp/frames_18.mp4, time: [00:04:45,00:04:59]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1006_03.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:05]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1006_10.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:03]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1007_04.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:09]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1002_04.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:19]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1016_04.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:01:20]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1004_23.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:08]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1016_03.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:29]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1015_01.mp4
+status: OK
+
++++process
+input: ./data_lipsync/step_1/duyluan/1006_06.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:06]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1004_02.mp4
+status: OK
+
++++process
+input: ./data_lipsync/step_1/duyluan/1004_07.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:07]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1028_00.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:12]
+output: tmp/frames_02.mp4, time: [00:00:32,00:00:40]
+output: tmp/frames_03.mp4, time: [00:00:43,00:00:57]
+output: tmp/frames_04.mp4, time: [00:01:14,00:01:43]
+output: tmp/frames_05.mp4, time: [00:01:53,00:02:00]
+output: tmp/frames_06.mp4, time: [00:02:05,00:02:55]
+output: tmp/frames_07.mp4, time: [00:02:56,00:03:29]
+output: tmp/frames_09.mp4, time: [00:03:43,00:03:46]
+output: tmp/frames_10.mp4, time: [00:03:57,00:04:03]
+output: tmp/frames_11.mp4, time: [00:04:11,00:04:27]
+output: tmp/frames_12.mp4, time: [00:04:28,00:04:30]
+output: tmp/frames_13.mp4, time: [00:04:43,00:05:00]
+output: tmp/frames_14.mp4, time: [00:05:02,00:05:17]
+output: tmp/frames_15.mp4, time: [00:05:29,00:05:45]
+output: tmp/frames_16.mp4, time: [00:05:50,00:06:17]
+output: tmp/frames_17.mp4, time: [00:06:18,00:06:27]
+output: tmp/frames_18.mp4, time: [00:06:34,00:06:52]
+output: tmp/frames_19.mp4, time: [00:06:58,00:07:25]
+output: tmp/frames_21.mp4, time: [00:07:43,00:08:37]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1004_16.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:07]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1001_02.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:10]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1017_03.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:01,00:00:11]
+output: tmp/frames_02.mp4, time: [00:00:20,00:00:24]
+output: tmp/frames_03.mp4, time: [00:00:33,00:00:43]
+output: tmp/frames_04.mp4, time: [00:00:55,00:01:14]
+output: tmp/frames_05.mp4, time: [00:01:21,00:01:36]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1018_00.mp4
+status: False
+
++++process
+input: ./data_lipsync/step_1/duyluan/1002_02.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:37]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1019_00.mp4
+status: OK
+
++++process
+input: ./data_lipsync/step_1/duyluan/1027_06.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:09]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1004_12.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:14]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1016_06.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:12]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1012_00.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:02,00:00:06]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1008_00.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:03]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1009_01.mp4
+status: OK
+
++++process
+input: ./data_lipsync/step_1/duyluan/1006_07.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:09]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1011_08.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:12]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1011_02.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:03]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1012_01.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:03]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1025_00.mp4
+status: False
+
++++process
+input: ./data_lipsync/step_1/duyluan/1011_03.mp4
+status: OK
+
++++process
+input: ./data_lipsync/step_1/duyluan/1006_05.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:05]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1005_00.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:04]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1026_00.mp4
+status: False
+
++++process
+input: ./data_lipsync/step_1/duyluan/1006_04.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:04]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1011_01.mp4
+status: OK
+
++++process
+input: ./data_lipsync/step_1/duyluan/1016_05.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:08]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1016_01.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:13]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1004_21.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:04]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1007_05.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:24]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1001_05.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:05]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1002_01.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:03]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1007_06.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:16]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1008_04.mp4
+status: OK
+
++++process
+input: ./data_lipsync/step_1/duyluan/1011_00.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:04]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1016_02.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:06]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1027_07.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:14]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1002_03.mp4
+status: OK
+
++++process
+input: ./data_lipsync/step_1/duyluan/1007_00.mp4
+status: OK
+
++++process
+input: ./data_lipsync/step_1/duyluan/1004_13.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:09]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1016_08.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:31]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1004_04.mp4
+status: OK
+
++++process
+input: ./data_lipsync/step_1/duyluan/1024_00.mp4
+status: OK
+
++++process
+input: ./data_lipsync/step_1/duyluan/1004_10.mp4
+status: OK
+
++++process
+input: ./data_lipsync/step_1/duyluan/1016_07.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:11]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1006_02.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:04]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1004_08.mp4
+status: OK
+
++++process
+input: ./data_lipsync/step_1/duyluan/1027_05.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:14]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1030_00.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:04,00:00:08]
+output: tmp/frames_02.mp4, time: [00:00:12,00:00:15]
+output: tmp/frames_03.mp4, time: [00:00:19,00:00:23]
+output: tmp/frames_04.mp4, time: [00:00:26,00:00:36]
+output: tmp/frames_05.mp4, time: [00:00:50,00:01:07]
+output: tmp/frames_06.mp4, time: [00:01:20,00:01:38]
+output: tmp/frames_07.mp4, time: [00:01:50,00:02:05]
+output: tmp/frames_08.mp4, time: [00:02:21,00:02:29]
+output: tmp/frames_09.mp4, time: [00:02:37,00:02:57]
+output: tmp/frames_10.mp4, time: [00:03:04,00:03:09]
+output: tmp/frames_11.mp4, time: [00:03:12,00:03:14]
+output: tmp/frames_12.mp4, time: [00:03:20,00:03:26]
+output: tmp/frames_13.mp4, time: [00:03:33,00:03:40]
+output: tmp/frames_14.mp4, time: [00:03:47,00:03:54]
+output: tmp/frames_15.mp4, time: [00:04:04,00:04:16]
+output: tmp/frames_16.mp4, time: [00:04:21,00:04:29]
+output: tmp/frames_17.mp4, time: [00:04:32,00:04:37]
+output: tmp/frames_18.mp4, time: [00:04:44,00:04:50]
+output: tmp/frames_19.mp4, time: [00:04:58,00:05:10]
+output: tmp/frames_20.mp4, time: [00:05:16,00:05:25]
+output: tmp/frames_21.mp4, time: [00:05:32,00:06:01]
+output: tmp/frames_22.mp4, time: [00:06:08,00:06:20]
+output: tmp/frames_24.mp4, time: [00:06:36,00:06:41]
+output: tmp/frames_25.mp4, time: [00:06:52,00:07:14]
+output: tmp/frames_26.mp4, time: [00:07:22,00:07:31]
+output: tmp/frames_28.mp4, time: [00:07:41,00:08:03]
+output: tmp/frames_29.mp4, time: [00:08:27,00:08:32]
+output: tmp/frames_30.mp4, time: [00:08:38,00:08:46]
+output: tmp/frames_31.mp4, time: [00:08:54,00:09:13]
+output: tmp/frames_32.mp4, time: [00:09:53,00:10:13]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1023_02.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:01,00:00:15]
+output: tmp/frames_02.mp4, time: [00:00:38,00:00:42]
+output: tmp/frames_04.mp4, time: [00:01:18,00:01:42]
+output: tmp/frames_05.mp4, time: [00:01:53,00:01:56]
+output: tmp/frames_06.mp4, time: [00:02:01,00:02:09]
+output: tmp/frames_07.mp4, time: [00:02:15,00:02:19]
+output: tmp/frames_08.mp4, time: [00:02:35,00:02:49]
+output: tmp/frames_09.mp4, time: [00:02:55,00:03:38]
+output: tmp/frames_10.mp4, time: [00:03:42,00:04:10]
+output: tmp/frames_11.mp4, time: [00:04:14,00:04:36]
+output: tmp/frames_12.mp4, time: [00:04:44,00:05:00]
+output: tmp/frames_13.mp4, time: [00:05:05,00:05:17]
+output: tmp/frames_14.mp4, time: [00:05:41,00:06:00]
+output: tmp/frames_15.mp4, time: [00:06:23,00:06:38]
+output: tmp/frames_16.mp4, time: [00:06:47,00:07:16]
+output: tmp/frames_17.mp4, time: [00:07:23,00:07:40]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1004_14.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:12]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1023_01.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:10]
+output: tmp/frames_02.mp4, time: [00:00:18,00:00:42]
+output: tmp/frames_03.mp4, time: [00:00:47,00:00:50]
+output: tmp/frames_04.mp4, time: [00:01:01,00:01:08]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1029_00.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:03,00:00:08]
+output: tmp/frames_05.mp4, time: [00:00:46,00:00:48]
+output: tmp/frames_06.mp4, time: [00:00:58,00:01:08]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1008_03.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:05]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1004_15.mp4
+status: OK
+
++++process
+input: ./data_lipsync/step_1/duyluan/1007_03.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:09]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1006_08.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:04]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1011_07.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:05]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1016_00.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:04]
+output: tmp/frames_02.mp4, time: [00:00:13,00:00:34]
+output: tmp/frames_03.mp4, time: [00:00:50,00:00:56]
+output: tmp/frames_06.mp4, time: [00:01:25,00:02:05]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1001_06.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:05]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1010_00.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:20]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1027_02.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:13]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1013_01.mp4
+status: False
+
++++process
+input: ./data_lipsync/step_1/duyluan/1017_00.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:06]
+output: tmp/frames_02.mp4, time: [00:00:18,00:00:20]
+output: tmp/frames_03.mp4, time: [00:00:31,00:00:33]
+output: tmp/frames_04.mp4, time: [00:00:37,00:00:44]
+output: tmp/frames_05.mp4, time: [00:00:50,00:01:15]
+output: tmp/frames_06.mp4, time: [00:01:25,00:01:28]
+output: tmp/frames_08.mp4, time: [00:01:44,00:02:07]
+output: tmp/frames_09.mp4, time: [00:02:25,00:02:32]
+output: tmp/frames_11.mp4, time: [00:03:00,00:03:08]
+output: tmp/frames_12.mp4, time: [00:03:25,00:03:35]
+output: tmp/frames_13.mp4, time: [00:03:53,00:03:56]
+output: tmp/frames_14.mp4, time: [00:04:13,00:04:46]
+output: tmp/frames_15.mp4, time: [00:04:52,00:04:54]
+output: tmp/frames_16.mp4, time: [00:05:02,00:05:22]
+output: tmp/frames_17.mp4, time: [00:05:37,00:05:40]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1006_12.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:23]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1009_02.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:10]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1006_09.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:08]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1027_01.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:07]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1004_18.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:04]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1009_00.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:03]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1011_04.mp4
+status: OK
+
++++process
+input: ./data_lipsync/step_1/duyluan/1006_13.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:05]
+
++++process
+input: ./data_lipsync/step_1/duyluan/1011_05.mp4
+status: False
+
++++process
+input: ./data_lipsync/step_1/duyluan/1020_01.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:21]

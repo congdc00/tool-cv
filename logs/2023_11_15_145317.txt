@@ -1,0 +1,29 @@
+
++++process
+input: ./data/chunk_1/0002_001.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:04]
+
++++process
+input: ./data/chunk_1/nnn.mp4
+status: False
+
++++process
+input: ./data/chunk_1/0002_000.mp4
+status: False
+
++++process
+input: ./data/chunk_1/0000_000.mp4
+status: False
+
++++process
+input: ./data/chunk_1/0001_000.mp4
+status: False
+
++++process
+input: ./data/chunk_1/input.mp4
+status: False
+
++++process
+input: ./data/chunk_1/02.mp4
+status: False

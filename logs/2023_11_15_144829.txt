@@ -1,0 +1,13 @@
++++process
+input: ./data/chunk_1/nnn.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:04:47]
++++process
+input: ./data/chunk_1/input.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:41]
++++process
+input: ./data/chunk_1/02.mp4
+status: OK
+output: tmp/frames_02.mp4, time: [00:00:01,00:00:04]
+output: tmp/frames_15.mp4, time: [00:00:28,00:00:32]

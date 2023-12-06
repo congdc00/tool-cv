@@ -1,0 +1,173 @@
+
++++process
+input: videos/vietnamese/jv/1003_01.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:37]
+
++++process
+input: videos/vietnamese/jv/1002_00.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:07]
+
++++process
+input: videos/vietnamese/jv/1001_01.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:01:17]
+
++++process
+input: videos/vietnamese/jv/1001_04.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:02:16]
+
++++process
+input: videos/vietnamese/jv/1004_01.mp4
+status: OK
+output: tmp/frames_01.mp4, time: [00:00:00,00:00:24]
+
++++process
+input: videos/vietnamese/jv/1001_00.mp4
+status: False
+
++++process
+input: videos/vietnamese/jv/1007_01.mp4
+status: False
+
++++process
+input: videos/vietnamese/jv/1006_00.mp4
+status: False
+
++++process
+input: videos/vietnamese/jv/1005_05.mp4
+status: False
+
++++process
+input: videos/vietnamese/jv/1008_02.mp4
+status: False
+
++++process
+input: videos/vietnamese/jv/1003_00.mp4
+status: False
+
++++process
+input: videos/vietnamese/jv/1008_01.mp4
+status: False
+
++++process
+input: videos/vietnamese/jv/1008_05.mp4
+status: False
+
++++process
+input: videos/vietnamese/jv/1004_05.mp4
+status: False
+
++++process
+input: videos/vietnamese/jv/1006_01.mp4
+status: False
+
++++process
+input: videos/vietnamese/jv/1004_06.mp4
+status: False
+
++++process
+input: videos/vietnamese/jv/1007_02.mp4
+status: False
+
++++process
+input: videos/vietnamese/jv/1001_03.mp4
+status: False
+
++++process
+input: videos/vietnamese/jv/1004_03.mp4
+status: False
+
++++process
+input: videos/vietnamese/jv/1004_00.mp4
+status: False
+
++++process
+input: videos/vietnamese/jv/1005_01.mp4
+status: False
+
++++process
+input: videos/vietnamese/jv/1002_05.mp4
+status: False
+
++++process
+input: videos/vietnamese/jv/1007_04.mp4
+status: False
+
++++process
+input: videos/vietnamese/jv/1002_04.mp4
+status: False
+
++++process
+input: videos/vietnamese/jv/1004_02.mp4
+status: False
+
++++process
+input: videos/vietnamese/jv/1001_02.mp4
+status: False
+
++++process
+input: videos/vietnamese/jv/1002_02.mp4
+status: False
+
++++process
+input: videos/vietnamese/jv/1008_00.mp4
+status: False
+
++++process
+input: videos/vietnamese/jv/1005_03.mp4
+status: False
+
++++process
+input: videos/vietnamese/jv/1005_00.mp4
+status: False
+
++++process
+input: videos/vietnamese/jv/1007_05.mp4
+status: False
+
++++process
+input: videos/vietnamese/jv/1002_06.mp4
+status: False
+
++++process
+input: videos/vietnamese/jv/1001_05.mp4
+status: False
+
++++process
+input: videos/vietnamese/jv/1002_01.mp4
+status: False
+
++++process
+input: videos/vietnamese/jv/1008_04.mp4
+status: False
+
++++process
+input: videos/vietnamese/jv/1002_03.mp4
+status: False
+
++++process
+input: videos/vietnamese/jv/1007_00.mp4
+status: False
+
++++process
+input: videos/vietnamese/jv/1005_04.mp4
+status: False
+
++++process
+input: videos/vietnamese/jv/1004_04.mp4
+status: False
+
++++process
+input: videos/vietnamese/jv/1008_03.mp4
+status: False
+
++++process
+input: videos/vietnamese/jv/1007_03.mp4
+status: False
+
++++process
+input: videos/vietnamese/jv/1005_02.mp4
+status: False

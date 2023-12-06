@@ -1,2 +1,6 @@
 loguru
 ffmpeg-python
+mediapipe
+tourch
+onnxruntime
+rembg
