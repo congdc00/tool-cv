@@ -6,8 +6,8 @@ import glob
 import os
 from tqdm import tqdm
 import rawkit 
-input_path = "./data/input_tmp"
-output_path = "./data/output_tmp"
+input_path = "./data/train"
+output_path = "./data/train_tmp"
 type_images = "png"
 list_img_path = glob.glob(input_path + f"/*.{type_images}")
 
@@ -17,7 +17,7 @@ class Remover():
     
     @staticmethod
     def __init_session():
-        Remover.session = new_session("u2net_human_seg")
+        Remover.session = new_session("isnet-general-use")
     
     @staticmethod
     def get_session():
@@ -38,3 +38,13 @@ def convert_background(image_root, background_target=None):
     img_none_bg = remove(image_root, session = session)
 
     return img_none_bg
+
+if __name__ == "__main__":
+    root_path = input_path +"/*"
+    print(root_path)
+    list_img_path = glob.glob(root_path)
+    for img_path in tqdm(list_img_path):
+        img = Image.open(img_path)
+        img_none_bg = convert_background(img)
+        output_name = os.path.basename(img_path)
+        img_none_bg.save(f"{output_path}/{output_name}")
